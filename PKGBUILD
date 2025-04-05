@@ -7,7 +7,7 @@
 
 pkgname="keypunch-git"
 _appname="keypunch"
-pkgver=5.1.r66.g1c07b2c
+pkgver=6.0.r0.gcc3890d
 pkgrel=1
 pkgdesc='Practice your typing skills'
 url='https://github.com/bragefuglseth/keypunch'
