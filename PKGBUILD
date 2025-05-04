@@ -1,4 +1,4 @@
-#Maintainer:    Giteeajake <giteeajake@qq.com>
+#Maintainer:    mumi jim <echo "=02bj5yav9Gb0V3bA1Waq9VatVXb" | rev | base64 -d>
 # Contributor: Klaus Alexander Seiﬆrup <$(echo 0x1fd+d59decfa=40 | tr 0-9+a-f=x ka-i@p-u.l)>
 
 #Thanks Klaus Alexander Seistrup :)
